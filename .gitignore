@@ -1,0 +1,6 @@
+*.tar
+notes/
+.venv
+data/embeddings/audioset_v1_embeddings/bal_train
+data/embeddings/audioset_v1_embeddings/eval
+data/embeddings/audioset_v1_embeddings/unbal_train
